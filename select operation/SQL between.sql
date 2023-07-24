@@ -1,0 +1,1 @@
+SELECT * FROM college_datails.college_administration WHERE college_id BETWEEN 3001 AND 4006;

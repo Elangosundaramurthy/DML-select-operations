@@ -1,0 +1,1 @@
+SELECT * FROM college_datails.college_administration WHERE num_of_student=1023 AND college_location='coimbatore';

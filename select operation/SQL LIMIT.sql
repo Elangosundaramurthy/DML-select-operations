@@ -1,0 +1,1 @@
+SELECT * FROM college_datails.college_administration LIMIT 3 ;
